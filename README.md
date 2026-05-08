@@ -1,3 +1,4 @@
+
 # Aplikasi Data Mahasiswa - Teknik Informatika UMMI
 
 Aplikasi web sederhana untuk manajemen data mahasiswa menggunakan PHP Native dan MySQL. Proyek ini dibuat untuk memenuhi tugas pemrograman web dasar dengan fitur CRUD (Create, Read, Update, Delete) serta unggah foto profil.
@@ -33,3 +34,4 @@ CREATE TABLE mahasiswa (
     jurusan VARCHAR(100) NOT NULL,
     foto VARCHAR(255)
 );
+
